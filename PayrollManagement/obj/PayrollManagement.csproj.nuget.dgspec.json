@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ASPIRE SYSTEM\\final project copy from one drive\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj": {}
+    "C:\\Users\\subramani.palani\\Downloads\\OneDrive_2024-01-11\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj": {}
   },
   "projects": {
-    "E:\\ASPIRE SYSTEM\\final project copy from one drive\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj": {
+    "C:\\Users\\subramani.palani\\Downloads\\OneDrive_2024-01-11\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ASPIRE SYSTEM\\final project copy from one drive\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj",
+        "projectUniqueName": "C:\\Users\\subramani.palani\\Downloads\\OneDrive_2024-01-11\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj",
         "projectName": "PayrollManagement",
-        "projectPath": "E:\\ASPIRE SYSTEM\\final project copy from one drive\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj",
-        "packagesPath": "C:\\Users\\sunda\\.nuget\\packages\\",
-        "outputPath": "E:\\ASPIRE SYSTEM\\final project copy from one drive\\Subramani _ PayrollManagementSystem\\PayrollManagement\\obj\\",
+        "projectPath": "C:\\Users\\subramani.palani\\Downloads\\OneDrive_2024-01-11\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj",
+        "packagesPath": "C:\\Users\\subramani.palani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\subramani.palani\\Downloads\\OneDrive_2024-01-11\\Subramani _ PayrollManagementSystem\\PayrollManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sunda\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\subramani.palani\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -128,24 +126,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.5, 7.0.5]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.5, 7.0.5]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.5, 7.0.5]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.5, 7.0.5]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -154,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.5.23303.2\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

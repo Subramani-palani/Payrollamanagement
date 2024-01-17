@@ -45,7 +45,7 @@ namespace PayrollManagement.Models{
 
             IConfiguration configuration = build.Build();
 
-            String? connectionString = Convert.ToString(configuration.GetConnectionString("connection1"));
+            String? connectionString = Convert.ToString(configuration.GetConnectionString("connection"));
             if(connectionString != null)
                 return connectionString;
             return "";
