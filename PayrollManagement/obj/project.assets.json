@@ -12385,11 +12385,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\subramani.palani\\Downloads\\OneDrive_2024-01-11\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj",
+      "projectUniqueName": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\myproject\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj",
       "projectName": "PayrollManagement",
-      "projectPath": "C:\\Users\\subramani.palani\\Downloads\\OneDrive_2024-01-11\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj",
+      "projectPath": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\myproject\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj",
       "packagesPath": "C:\\Users\\subramani.palani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\subramani.palani\\Downloads\\OneDrive_2024-01-11\\Subramani _ PayrollManagementSystem\\PayrollManagement\\obj\\",
+      "outputPath": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\myproject\\Subramani _ PayrollManagementSystem\\PayrollManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\subramani.palani\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -12517,6 +12517,16 @@
     }
   },
   "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Data.SqlClient' 4.8.5 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
     {
       "code": "NU1701",
       "level": "Warning",

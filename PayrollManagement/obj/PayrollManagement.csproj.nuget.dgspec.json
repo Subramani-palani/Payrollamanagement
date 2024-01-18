@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\subramani.palani\\Downloads\\OneDrive_2024-01-11\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj": {}
+    "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\myproject\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\subramani.palani\\Downloads\\OneDrive_2024-01-11\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj": {
+    "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\myproject\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\subramani.palani\\Downloads\\OneDrive_2024-01-11\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj",
+        "projectUniqueName": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\myproject\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj",
         "projectName": "PayrollManagement",
-        "projectPath": "C:\\Users\\subramani.palani\\Downloads\\OneDrive_2024-01-11\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj",
+        "projectPath": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\myproject\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj",
         "packagesPath": "C:\\Users\\subramani.palani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\subramani.palani\\Downloads\\OneDrive_2024-01-11\\Subramani _ PayrollManagementSystem\\PayrollManagement\\obj\\",
+        "outputPath": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\myproject\\Subramani _ PayrollManagementSystem\\PayrollManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\subramani.palani\\AppData\\Roaming\\NuGet\\NuGet.Config"

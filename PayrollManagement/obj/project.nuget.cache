@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7/xW3waI3eqU9mr0GG8SPSrmqQnOnzl0MCS9YFyLM5U6OPj8RDFLH8xHdY8aq2rarl6XuBLpJLFRQCT8SJHkfw==",
+  "dgSpecHash": "l0N1MiHTUQgypvnP7HQge9mXoGgKdjby8E7Ss7zmQfY0Rx7hAUY2LlH7iTsZKzfA+bvTK2M4xHO+JKmSEbb2LQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\subramani.palani\\Downloads\\OneDrive_2024-01-11\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj",
+  "projectFilePath": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\myproject\\Subramani _ PayrollManagementSystem\\PayrollManagement\\PayrollManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\subramani.palani\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
     "C:\\Users\\subramani.palani\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -249,6 +249,16 @@
     "C:\\Users\\subramani.palani\\.nuget\\packages\\twilio\\6.3.0\\twilio.6.3.0.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Data.SqlClient' 4.8.5 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
     {
       "code": "NU1701",
       "level": "Warning",
