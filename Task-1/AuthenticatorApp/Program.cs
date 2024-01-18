@@ -19,7 +19,7 @@ builder.Services.AddSwaggerGen(options =>
     options.AddSecurityDefinition("oauth2", new OpenApiSecurityScheme
     {
         In = ParameterLocation.Header,
-        Name = "Authorization",
+        Name = "OAuth",
         Type = SecuritySchemeType.ApiKey
     });
 
