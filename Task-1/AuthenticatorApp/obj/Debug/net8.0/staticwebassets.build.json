@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "W/iUCvmaO99UpWtxQbQethLrxg9zIOD0ITt9EvPEk18=",
+  "Source": "AuthenticatorApp",
+  "BasePath": "_content/AuthenticatorApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
