@@ -1488,11 +1488,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\net task\\RoleBasedAuthentication\\RoleBasedAuthentication.csproj",
+      "projectUniqueName": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\Fresher task\\Task-2-Role based authentication\\RoleBasedAuthentication\\RoleBasedAuthentication.csproj",
       "projectName": "RoleBasedAuthentication",
-      "projectPath": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\net task\\RoleBasedAuthentication\\RoleBasedAuthentication.csproj",
+      "projectPath": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\Fresher task\\Task-2-Role based authentication\\RoleBasedAuthentication\\RoleBasedAuthentication.csproj",
       "packagesPath": "C:\\Users\\subramani.palani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\net task\\RoleBasedAuthentication\\obj\\",
+      "outputPath": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\Fresher task\\Task-2-Role based authentication\\RoleBasedAuthentication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\subramani.palani\\AppData\\Roaming\\NuGet\\NuGet.Config"

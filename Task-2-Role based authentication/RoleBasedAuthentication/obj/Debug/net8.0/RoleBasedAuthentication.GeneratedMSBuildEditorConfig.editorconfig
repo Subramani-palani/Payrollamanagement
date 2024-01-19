@@ -9,47 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RoleBasedAuthentication
 build_property.RootNamespace = RoleBasedAuthentication
-build_property.ProjectDir = C:\Users\subramani.palani\Desktop\Subramani_tasks\net task\RoleBasedAuthentication\
+build_property.ProjectDir = C:\Users\subramani.palani\Desktop\Subramani_tasks\Fresher task\Task-2-Role based authentication\RoleBasedAuthentication\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\subramani.palani\Desktop\Subramani_tasks\net task\RoleBasedAuthentication
+build_property.MSBuildProjectDirectory = C:\Users\subramani.palani\Desktop\Subramani_tasks\Fresher task\Task-2-Role based authentication\RoleBasedAuthentication
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/subramani.palani/Desktop/Subramani_tasks/net task/RoleBasedAuthentication/Views/Admin/Index.cshtml]
+[C:/Users/subramani.palani/Desktop/Subramani_tasks/Fresher task/Task-2-Role based authentication/RoleBasedAuthentication/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/subramani.palani/Desktop/Subramani_tasks/net task/RoleBasedAuthentication/Views/Employee/Index.cshtml]
+[C:/Users/subramani.palani/Desktop/Subramani_tasks/Fresher task/Task-2-Role based authentication/RoleBasedAuthentication/Views/Employee/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/subramani.palani/Desktop/Subramani_tasks/net task/RoleBasedAuthentication/Views/Home/Index.cshtml]
+[C:/Users/subramani.palani/Desktop/Subramani_tasks/Fresher task/Task-2-Role based authentication/RoleBasedAuthentication/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/subramani.palani/Desktop/Subramani_tasks/net task/RoleBasedAuthentication/Views/Home/Login.cshtml]
+[C:/Users/subramani.palani/Desktop/Subramani_tasks/Fresher task/Task-2-Role based authentication/RoleBasedAuthentication/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/subramani.palani/Desktop/Subramani_tasks/net task/RoleBasedAuthentication/Views/Shared/Error.cshtml]
+[C:/Users/subramani.palani/Desktop/Subramani_tasks/Fresher task/Task-2-Role based authentication/RoleBasedAuthentication/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/subramani.palani/Desktop/Subramani_tasks/net task/RoleBasedAuthentication/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/subramani.palani/Desktop/Subramani_tasks/Fresher task/Task-2-Role based authentication/RoleBasedAuthentication/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/subramani.palani/Desktop/Subramani_tasks/net task/RoleBasedAuthentication/Views/_ViewImports.cshtml]
+[C:/Users/subramani.palani/Desktop/Subramani_tasks/Fresher task/Task-2-Role based authentication/RoleBasedAuthentication/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/subramani.palani/Desktop/Subramani_tasks/net task/RoleBasedAuthentication/Views/_ViewStart.cshtml]
+[C:/Users/subramani.palani/Desktop/Subramani_tasks/Fresher task/Task-2-Role based authentication/RoleBasedAuthentication/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/subramani.palani/Desktop/Subramani_tasks/net task/RoleBasedAuthentication/Views/Shared/_Layout.cshtml]
+[C:/Users/subramani.palani/Desktop/Subramani_tasks/Fresher task/Task-2-Role based authentication/RoleBasedAuthentication/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-avtbr9yt75

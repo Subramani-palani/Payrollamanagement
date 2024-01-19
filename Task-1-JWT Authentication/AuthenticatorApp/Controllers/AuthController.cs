@@ -29,6 +29,14 @@ namespace JwtWebApiDotNet7.Controllers
         {
             return Ok(_userService.GetMyName());
 
+            //var userName = User?.Identity?.Name;
+            //var roleClaims = User?.FindAll(ClaimTypes.Role);
+            //var roles = roleClaims?.Select(c => c.Value).ToList();
+            //var roles2 = User?.Claims
+            //    .Where(c => c.Type == ClaimTypes.Role)
+            //    .Select(c => c.Value)
+            //    .ToList();
+            //return Ok(new { userName, roles, roles2 });
         }
 
         [HttpPost("register")]
@@ -64,7 +72,9 @@ namespace JwtWebApiDotNet7.Controllers
         private string CreateToken(User user)
         {
             List<Claim> claims = new List<Claim> {
-                new Claim(ClaimTypes.Name, user.Username)
+                new Claim(ClaimTypes.Name, user.Username),
+                new Claim(ClaimTypes.Role, "Admin"),
+                new Claim(ClaimTypes.Role, "User"),
             };
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(

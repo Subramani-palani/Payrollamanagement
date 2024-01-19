@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\Fresher task\\Task-1\\AuthenticatorApp\\AuthenticatorApp.csproj": {}
+    "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\net task\\AuthenticatorApp\\AuthenticatorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\Fresher task\\Task-1\\AuthenticatorApp\\AuthenticatorApp.csproj": {
+    "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\net task\\AuthenticatorApp\\AuthenticatorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\Fresher task\\Task-1\\AuthenticatorApp\\AuthenticatorApp.csproj",
+        "projectUniqueName": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\net task\\AuthenticatorApp\\AuthenticatorApp.csproj",
         "projectName": "AuthenticatorApp",
-        "projectPath": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\Fresher task\\Task-1\\AuthenticatorApp\\AuthenticatorApp.csproj",
+        "projectPath": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\net task\\AuthenticatorApp\\AuthenticatorApp.csproj",
         "packagesPath": "C:\\Users\\subramani.palani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\Fresher task\\Task-1\\AuthenticatorApp\\obj\\",
+        "outputPath": "C:\\Users\\subramani.palani\\Desktop\\Subramani_tasks\\net task\\AuthenticatorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\subramani.palani\\AppData\\Roaming\\NuGet\\NuGet.Config"
