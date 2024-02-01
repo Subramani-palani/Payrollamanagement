@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" name="Api.Tests.dll" fullname="C:\Users\subramani.palani\Desktop\Subramani_tasks\Fullstack project\Api.Tests\bin\Debug\net8.0\Api.Tests.dll" runstate="Runnable" testcasecount="5" result="Failed" total="5" passed="2" failed="3" warnings="0" inconclusive="0" skipped="0" asserts="3" engine-version="3.13.2.0" clr-version="8.0.1" start-time="2024-01-31 12:10:35Z" end-time="2024-01-31 12:10:36Z" duration="1.607212">
+  <command-line><![CDATA["C:\Users\subramani.palani\Desktop\Subramani_tasks\Fullstack project\Api.Tests\bin\Debug\net8.0\testhost.dll" --port 51719 --endpoint 127.0.0.1:051719 --role client --parentprocessid 12192 --telemetryoptedin false]]></command-line>
+  <test-suite type="Assembly" id="0-1006" name="Api.Tests.dll" fullname="C:/Users/subramani.palani/Desktop/Subramani_tasks/Fullstack project/Api.Tests/bin/Debug/net8.0/Api.Tests.dll" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2024-01-31T12:10:35.1157881Z" end-time="2024-01-31T12:10:36.7121879Z" duration="1.596368" total="5" passed="2" failed="3" warnings="0" inconclusive="0" skipped="0" asserts="3">
+    <environment framework-version="3.13.3.0" clr-version="8.0.1" os-version="Microsoft Windows 10.0.19045" platform="Win32NT" cwd="C:\Users\subramani.palani\Desktop\Subramani_tasks\Fullstack project\Api.Tests\bin\Debug\net8.0" machine-name="ASPLAP1318" user="subramani.palani" user-domain="ASPIRESYS" culture="en-IN" uiculture="en-GB" os-architecture="x64" />
+    <settings>
+      <setting name="SynchronousEvents" value="False" />
+      <setting name="RandomSeed" value="2131153586" />
+      <setting name="SkipNonTestAssemblies" value="True" />
+      <setting name="ProcessModel" value="InProcess" />
+      <setting name="DomainUsage" value="Single" />
+      <setting name="DefaultTestNamePattern" value="{m}{a}" />
+      <setting name="WorkDirectory" value="C:\Users\subramani.palani\Desktop\Subramani_tasks\Fullstack project\Api.Tests\bin\Debug\net8.0" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="8336" />
+      <property name="_APPDOMAIN" value="testhost" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="0-1007" name="ServerApi" fullname="ServerApi" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2024-01-31T12:10:35.1189784Z" end-time="2024-01-31T12:10:36.7119754Z" duration="1.592993" total="5" passed="2" failed="3" warnings="0" inconclusive="0" skipped="0" asserts="3">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestSuite" id="0-1008" name="Tests" fullname="ServerApi.Tests" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2024-01-31T12:10:35.1191882Z" end-time="2024-01-31T12:10:36.7116038Z" duration="1.592412" total="5" passed="2" failed="3" warnings="0" inconclusive="0" skipped="0" asserts="3">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-suite type="TestFixture" id="0-1000" name="WeatherForecastControllerTests" fullname="ServerApi.Tests.WeatherForecastControllerTests" classname="ServerApi.Tests.WeatherForecastControllerTests" runstate="Runnable" testcasecount="5" result="Failed" site="Child" start-time="2024-01-31T12:10:35.1202957Z" end-time="2024-01-31T12:10:36.7100299Z" duration="1.589730" total="5" passed="2" failed="3" warnings="0" inconclusive="0" skipped="0" asserts="3">
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-case id="0-1004" name="addStudentTest" fullname="ServerApi.Tests.WeatherForecastControllerTests.addStudentTest" methodname="addStudentTest" classname="ServerApi.Tests.WeatherForecastControllerTests" runstate="Runnable" seed="194967187" result="Passed" start-time="2024-01-31T12:10:35.1220241Z" end-time="2024-01-31T12:10:36.1547273Z" duration="1.032751" asserts="0">
+            <output><![CDATA[warn: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[3]
+      Failed to determine the https port for redirect.
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (31ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+      SET IMPLICIT_TRANSACTIONS OFF;
+      SET NOCOUNT ON;
+      INSERT INTO [StudentDetails] ([Address], [Email], [Name], [PhoneNumber])
+      OUTPUT INSERTED.[Id]
+      VALUES (@p0, @p1, @p2, @p3);
+]]></output>
+          </test-case>
+          <test-case id="0-1001" name="GetStudent" fullname="ServerApi.Tests.WeatherForecastControllerTests.GetStudent" methodname="GetStudent" classname="ServerApi.Tests.WeatherForecastControllerTests" runstate="Runnable" seed="2050417691" result="Passed" start-time="2024-01-31T12:10:36.1561137Z" end-time="2024-01-31T12:10:36.4032435Z" duration="0.247129" asserts="1">
+            <output><![CDATA[warn: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[3]
+      Failed to determine the https port for redirect.
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [s].[Id], [s].[Address], [s].[Email], [s].[Name], [s].[PhoneNumber]
+      FROM [StudentDetails] AS [s]
+]]></output>
+          </test-case>
+          <test-case id="0-1005" name="updateStudentTest" fullname="ServerApi.Tests.WeatherForecastControllerTests.updateStudentTest" methodname="updateStudentTest" classname="ServerApi.Tests.WeatherForecastControllerTests" runstate="Runnable" seed="1283544923" result="Failed" label="Error" start-time="2024-01-31T12:10:36.4032960Z" end-time="2024-01-31T12:10:36.5677292Z" duration="0.164433" asserts="0">
+            <failure>
+              <message><![CDATA[System.Net.Http.HttpRequestException : Response status code does not indicate success: 400 (Bad Request).]]></message>
+              <stack-trace><![CDATA[   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at ServerApi.Tests.WeatherForecastControllerTests.updateStudentTest() in C:\Users\subramani.palani\Desktop\Subramani_tasks\Fullstack project\Api.Tests\UnitTest1.cs:line 111
+   at NUnit.Framework.Internal.TaskAwaitAdapter.GenericAdapter`1.BlockUntilCompleted()
+   at NUnit.Framework.Internal.MessagePumpStrategy.NoMessagePumpStrategy.WaitForCompletion(AwaitAdapter awaiter)
+   at NUnit.Framework.Internal.AsyncToSyncAdapter.Await(Func`1 invoke)
+   at NUnit.Framework.Internal.Commands.TestMethodCommand.RunTestMethod(TestExecutionContext context)
+   at NUnit.Framework.Internal.Commands.TestMethodCommand.Execute(TestExecutionContext context)
+   at NUnit.Framework.Internal.Commands.BeforeAndAfterTestCommand.<>c__DisplayClass1_0.<Execute>b__0()
+   at NUnit.Framework.Internal.Commands.DelegatingTestCommand.RunTestMethodInThreadAbortSafeZone(TestExecutionContext context, Action action)]]></stack-trace>
+            </failure>
+            <output><![CDATA[warn: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[3]
+      Failed to determine the https port for redirect.
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (11ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT TOP(1) [s].[Id], [s].[Address], [s].[Email], [s].[Name], [s].[PhoneNumber]
+      FROM [StudentDetails] AS [s]
+      WHERE [s].[Id] = @__p_0
+]]></output>
+          </test-case>
+          <test-case id="0-1003" name="verify_Studentname" fullname="ServerApi.Tests.WeatherForecastControllerTests.verify_Studentname" methodname="verify_Studentname" classname="ServerApi.Tests.WeatherForecastControllerTests" runstate="Runnable" seed="314702971" result="Failed" start-time="2024-01-31T12:10:36.5678339Z" end-time="2024-01-31T12:10:36.6294451Z" duration="0.061612" asserts="1">
+            <failure>
+              <message><![CDATA[  Expected string length 5 but was 7. Strings differ at index 0.
+  Expected: "saran"
+  But was:  "Arunesh"
+  -----------^
+]]></message>
+              <stack-trace><![CDATA[   at ServerApi.Tests.WeatherForecastControllerTests.verify_Studentname() in C:\Users\subramani.palani\Desktop\Subramani_tasks\Fullstack project\Api.Tests\UnitTest1.cs:line 69
+   at NUnit.Framework.Internal.TaskAwaitAdapter.GenericAdapter`1.BlockUntilCompleted()
+   at NUnit.Framework.Internal.MessagePumpStrategy.NoMessagePumpStrategy.WaitForCompletion(AwaitAdapter awaiter)
+   at NUnit.Framework.Internal.AsyncToSyncAdapter.Await(Func`1 invoke)
+   at NUnit.Framework.Internal.Commands.TestMethodCommand.RunTestMethod(TestExecutionContext context)
+   at NUnit.Framework.Internal.Commands.TestMethodCommand.Execute(TestExecutionContext context)
+   at NUnit.Framework.Internal.Commands.BeforeAndAfterTestCommand.<>c__DisplayClass1_0.<Execute>b__0()
+   at NUnit.Framework.Internal.Commands.DelegatingTestCommand.RunTestMethodInThreadAbortSafeZone(TestExecutionContext context, Action action)
+]]></stack-trace>
+            </failure>
+            <output><![CDATA[warn: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[3]
+      Failed to determine the https port for redirect.
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (0ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT TOP(1) [s].[Id], [s].[Address], [s].[Email], [s].[Name], [s].[PhoneNumber]
+      FROM [StudentDetails] AS [s]
+      WHERE [s].[Id] = @__p_0
+]]></output>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected string length 5 but was 7. Strings differ at index 0.
+  Expected: "saran"
+  But was:  "Arunesh"
+  -----------^
+]]></message>
+                <stack-trace><![CDATA[   at ServerApi.Tests.WeatherForecastControllerTests.verify_Studentname() in C:\Users\subramani.palani\Desktop\Subramani_tasks\Fullstack project\Api.Tests\UnitTest1.cs:line 69
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+          <test-case id="0-1002" name="verifyStudentid" fullname="ServerApi.Tests.WeatherForecastControllerTests.verifyStudentid" methodname="verifyStudentid" classname="ServerApi.Tests.WeatherForecastControllerTests" runstate="Runnable" seed="1109731762" result="Failed" start-time="2024-01-31T12:10:36.6376133Z" end-time="2024-01-31T12:10:36.7067128Z" duration="0.069099" asserts="1">
+            <failure>
+              <message><![CDATA[  Expected: OK
+  But was:  NotFound
+]]></message>
+              <stack-trace><![CDATA[   at ServerApi.Tests.WeatherForecastControllerTests.verifyStudentid() in C:\Users\subramani.palani\Desktop\Subramani_tasks\Fullstack project\Api.Tests\UnitTest1.cs:line 49
+   at NUnit.Framework.Internal.TaskAwaitAdapter.GenericAdapter`1.BlockUntilCompleted()
+   at NUnit.Framework.Internal.MessagePumpStrategy.NoMessagePumpStrategy.WaitForCompletion(AwaitAdapter awaiter)
+   at NUnit.Framework.Internal.AsyncToSyncAdapter.Await(Func`1 invoke)
+   at NUnit.Framework.Internal.Commands.TestMethodCommand.RunTestMethod(TestExecutionContext context)
+   at NUnit.Framework.Internal.Commands.TestMethodCommand.Execute(TestExecutionContext context)
+   at NUnit.Framework.Internal.Commands.BeforeAndAfterTestCommand.<>c__DisplayClass1_0.<Execute>b__0()
+   at NUnit.Framework.Internal.Commands.DelegatingTestCommand.RunTestMethodInThreadAbortSafeZone(TestExecutionContext context, Action action)
+]]></stack-trace>
+            </failure>
+            <output><![CDATA[warn: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[3]
+      Failed to determine the https port for redirect.
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (5ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT TOP(1) [s].[Id], [s].[Address], [s].[Email], [s].[Name], [s].[PhoneNumber]
+      FROM [StudentDetails] AS [s]
+      WHERE [s].[Id] = @__p_0
+]]></output>
+            <assertions>
+              <assertion result="Failed">
+                <message><![CDATA[  Expected: OK
+  But was:  NotFound
+]]></message>
+                <stack-trace><![CDATA[   at ServerApi.Tests.WeatherForecastControllerTests.verifyStudentid() in C:\Users\subramani.palani\Desktop\Subramani_tasks\Fullstack project\Api.Tests\UnitTest1.cs:line 49
+]]></stack-trace>
+              </assertion>
+            </assertions>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
